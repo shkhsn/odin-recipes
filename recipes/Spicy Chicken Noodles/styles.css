@@ -1,0 +1,23 @@
+body {
+  background-color: hsl(184, 23%, 72%);
+  text-align: center;
+  line-height: 1.5;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  font-size: 40px;
+}
+
+h2,
+h3 {
+  font-style: italic;
+}
+
+ul {
+  list-style-position: inside;
+}
